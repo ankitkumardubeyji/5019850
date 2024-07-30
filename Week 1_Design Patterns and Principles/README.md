@@ -3,4 +3,4 @@
 ### Email : ankitdubey1570@gmail.com
 ### GitHub Repository : https://github.com/ankitkumardubeyji/5019850
 
-### Week 1 : Algorithms and Data Structures
+### Week 1 : Design Pattern and Principles
